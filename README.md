@@ -26,14 +26,14 @@ git config --list
 ### Paso 3: Clonar el Proyecto desde su propio Github
 
 ```
-git clone https://github.com/<USER>/Modelo-Churn-clientes-TELCO.git
+git clone https://github.com/<USER>/Modelo-Churn-clientes-TELCO_2.git
 ```
 
 
 ### Paso 4: Instalar los pre-requisitos
 
 ```
-cd Modelo-Churn-clientes-TELCO/
+cd Modelo-Churn-clientes-TELCO_2/
 
 ```
 
