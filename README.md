@@ -43,7 +43,7 @@ cd Modelo-Churn-clientes-TELCO_2/
 ```
 cd src
 
-python make_dataset.py
+python make_dataset_v2.py
 
 python train.py
 
